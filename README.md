@@ -361,3 +361,109 @@ Why or why not?
 Write two or three sentences before moving on.
 
 Keep your answer in mind because you will use it later to write your own AI prompt.
+---
+
+# Using AI Responsibly
+
+![Ethical AI](media/ethics.jpg)
+
+AI is a powerful professional learning tool, but it should always be used responsibly.
+
+When using AI for professional reflection, remember these principles:
+
+✅ Protect privacy by avoiding confidential student or colleague information.
+
+✅ Verify AI suggestions before applying them in your teaching.
+
+✅ Keep professional judgement at the centre of every decision.
+
+Think of AI as a **thinking partner**, not a replacement for your expertise.
+
+---
+
+## Knowledge Check
+
+Which statement best describes responsible AI use?
+
+* [( )] AI should make all teaching decisions.
+* [( )] AI always gives the correct answer.
+* [(X)] Teachers should review and adapt AI suggestions before using them.
+* [( )] AI should replace professional reflection.
+
+> Correct!
+
+> AI supports professional development, but teachers remain responsible for instructional decisions.
+
+---
+
+# Final Challenge
+
+Imagine you have just finished teaching a lesson.
+
+Choose **any lesson** you have taught (or imagine teaching one).
+
+Create an AI prompt that includes:
+
+- The lesson topic
+- The learners
+- One challenge you experienced
+- The type of feedback you want from AI
+
+Take about **5 minutes** to write your prompt.
+
+---
+
+## Self-Assessment Checklist
+
+Before moving on, check your prompt.
+
+- [[ ]] I explained what I taught.
+- [[ ]] I described the teaching challenge.
+- [[ ]] I clearly asked for the type of feedback I wanted.
+- [[ ]] My prompt provides enough context.
+- [[ ]] I would feel confident using this prompt with an AI tool.
+
+If you checked all five boxes, your prompt is ready.
+---
+
+# Workshop Reflection
+
+![Workshop Summary](media/workshop_summary.jpg)
+
+Congratulations!
+
+You have completed the workshop.
+
+Today you explored how AI can support professional reflection by helping teachers think more critically about their own practice.
+
+Remember these three key ideas:
+
+### 1. Reflection supports professional growth.
+
+Good teaching improves through continuous reflection.
+
+### 2. Better prompts lead to better AI responses.
+
+The quality of AI feedback depends on the quality of your prompt.
+
+### 3. Teachers make the final decision.
+
+AI can support reflection, but professional judgement always comes first.
+
+---
+
+## Final Reflection
+
+Complete this sentence:
+
+> "One thing I will do differently when using AI for professional reflection is..."
+
+Take one minute to think before finishing the workshop.
+
+---
+
+# Thank You
+
+Thank you for participating!
+
+Continue exploring AI responsibly and use it as a tool to support—not replace—your professional expertise.
